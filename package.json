@@ -1,5 +1,9 @@
 {
   "name": "chat-vue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lfzxmw/chat-vue.git"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
